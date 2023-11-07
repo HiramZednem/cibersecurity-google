@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module-1/week 1.md",
+                "file": "module-1/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "module-1/week 1.md",
+                "file": "module-1/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "module-1/week 1.md",
+                "file": "module-1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "module-1/week 1.md"
+                "file": "module-1/Week 1.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7adf8a42cdd19cd7",
+  "active": "aee4c2eff55cba09",
   "lastOpenFiles": [
-    "README.md",
     "module-1/01-introducction.md",
-    "module-1/week 1.md",
+    "module-1/Week 1.md",
+    "module-1/attachments/Pasted image 20231107053415.png",
+    "README.md",
     "module-1/Pasted image 20231106195532.png",
     "module-1/attachments/Pasted image 20231106195558.png",
     "module-1/attachments",

@@ -5,7 +5,7 @@
 ## What we are gonna learn:
 - Detecting and responding to attacks
 Monitoring and protecting networks
-- investigatin incidents
+- investigation incidents
 - write code to automatize tasks
 - core security concepts
 - security domains
