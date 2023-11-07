@@ -35,7 +35,7 @@ Maintaining brand trust, because we are saving the data of the user..
 - do security audits
 
 # First Quiz
-1. ¿Cuáles son los tres elementos clave de la tríada CIA?
+1. ¿Cuáles son los tres elementos clave de la triada CIA?
      - Confidencialidad, integridad y disponibilidad de la información
 2.   ¿Cuáles son las principales responsabilidades de un/a analista de seguridad de nivel inicial? Selecciona tres respuestas.
     - Monitorear los sistemas
@@ -48,4 +48,20 @@ Maintaining brand trust, because we are saving the data of the user..
 	- Protección contra amenazas externas e internas
 
 - - -
-# Basic Habilities for profesionals
+# Basic Habilites for professionals
+### Transferable skills
+**- Communication:** interpreted all the data to employees that doesn't know about the topic
+- **Collaboration:** we work in teams with engineers, investigators and project manager, ethical hacker
+- **Analysis:** we need to analize scenarios that we are face it to plane a strategy
+- **Problem Solving:** provide solutions to the weakness that we find
+- **Time Managment:** Having a sense of urgency and properly prioritizing tasks is essential
+### Technically skills:
+- **Programming languages:** we need to learn programming languages because we need to automatize tasks
+- **Security Incident and Event Management (SIEM) tools:** we need to know how to use it to face it the problems that the company can face it
+- **Computer forensic:** work in the criminal, identify and analyze the criminal justice system.
+- **Sistemas de deteccion de intrusiones (IDS):** Para monitorizar redes y checar el acceso no autorizado a la red
+- - - 
+# The importance of cybersecurity
+Data losses can affect organization reputations (user,clients, customer). mantling and secure user data is a important part.
+**Personally Identifiable Information (PII)**: any information used to infer an individual's identity   (full name, email,adress, internet protocol, ip, etc...)
+**Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines (social security numbres, financial information)
