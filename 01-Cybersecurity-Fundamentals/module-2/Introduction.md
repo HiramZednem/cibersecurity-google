@@ -62,3 +62,7 @@ Los motivos por los cuales los ataques de ingeniería social son eficaces son:
 - **Familiaridad:** los agentes de amenaza establecen falsos lazos emocionales con los/las usuarios/as de quienes desean aprovecharse,para lograr su objetivo.  
     
 - **Confianza:** los agentes de amenaza establecen una relación afectiva con los/las usuarios/as, que les permite aprovecharse de ellos _con el paso del tiempo_. Hacen uso de esta relación para ganarse la confianza de la víctima y acceder a su información personal.
+
+# Security Domines (CISSIP)
+If one security domain fail, your organisation can have bad consequences
+the domain can help you to understand your rol in the 
