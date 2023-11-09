@@ -65,3 +65,28 @@ Maintaining brand trust, because we are saving the data of the user..
 Data losses can affect organization reputations (user,clients, customer). mantling and secure user data is a important part.
 **Personally Identifiable Information (PII)**: any information used to infer an individual's identity   (full name, email,adress, internet protocol, ip, etc...)
 **Sensitive Personally Identifiable Information (SPII)**: A specific type of PII that falls under stricter handling guidelines (social security numbres, financial information)
+- - -
+# Conclusion
+In this module we understand the concepts of defined security
+we learn core skilss that e need
+and we talk about the value abou a cybersecurity programmer
+
+- - -
+# Glosario Semana 1
+**Agente de amenaza:** Persona o grupo de personas que representa una amenaza intencional para computadoras, aplicaciones o redes.
+
+**Amenaza**: Cualquier circunstancia o evento que pueda afectar los activos de manera negativa.
+
+**Amenaza interna:** Riesgo a la seguridad producido por una persona que pertenece o perteneció a una empresa o tiene una relación directa o de confianza con ella.
+
+**Ciberseguridad (o seguridad cibernética):** Práctica de garantizar la confidencialidad, integridad y disponibilidad de la información mediante la protección de redes, dispositivos, personas y datos contra el acceso no autorizado o la explotación delictiva.
+
+**Habilidades técnicas:** Competencias que requieren conocimiento de herramientas, procedimientos y políticas específicas.
+
+**Habilidades transferibles:** Competencias de otras áreas que pueden aplicarse a diferentes carreras.
+
+**Información de identificación personal (PII por sus siglas en inglés):** Cualquier información que pueda usarse para deducir la identidad de una persona.
+
+**Información de identificación personal sensible (SPII por sus siglas en inglés):** Tipo específico de Información de identificación personal que se rige por pautas de manejo más estrictas.
+
+**Seguridad de redes:** Práctica de evitar accesos no autorizados a la infraestructura de red de una organización.
