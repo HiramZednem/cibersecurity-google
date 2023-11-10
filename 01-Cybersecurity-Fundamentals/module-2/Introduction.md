@@ -66,3 +66,17 @@ Los motivos por los cuales los ataques de ingeniería social son eficaces son:
 # Security Domines (CISSIP)
 If one security domain fail, your organisation can have bad consequences
 the domain can help you to understand your rol in the 
+CISSP define the 8 security domines
+![[Pasted image 20231109234918.png]]
+1. Security and Risk Management
+	- Defines security goals and objetives, risk mitigation, compliance, business continuity, and the law
+	- The security analist may need to update the politics about private info
+1. Asset Security
+	- Secures digital and physical assets. It also related to the storage, maintenance, retention, and destruction of data.
+	- Security analist maybe destroy old info or devices that have that kind of things
+1. Security Architecture and Engineering
+	-  Optimizes data security by ensuring effective tools, systems, and processes are in place
+	- Configurate a firewall, configurate a firewall it can help to defend to attacks
+1. Communications and Network Security
+		- Mange and ecure physical networks and wireless comunications
+		- Analize user behavior of the organization, if the members of the companie conect to point access that are insecure, the data could be exposed.
