@@ -88,3 +88,51 @@ CISSP define the 8 security domines
 	- Conducting investigations and implemention preventing measures
 8. Software Development Security
 	- Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
+
+
+# Como determinar el tipo de ataque
+### Ataque de contraseña 
+Tiene el propósito de acceder a dispositivos protegidos por contraseña, algunos de ellos son:
+- Fuerza Bruta
+- Tabla arcoiris o Rainbow
+### Ataques de ingeniería Social
+Considero innecesario colocarlo, arriba se habla mucho sobre el.
+### Ataque físico
+- Cable USB malicioso
+- Unidad flash maliciosa
+- Clonacion y skimming de tarjetas
+### Inteligencia Artificial Antagónica
+La **inteligencia artificial antagónica** es una técnica que manipula [la tecnología de inteligencia artificial y el aprendizaje automático](https://www.nccoe.nist.gov/ai/adversarial-machine-learning) para perpetrar ataques de manera más eficiente.
+### Ataque criptográfico
+- Cumpleaños
+- Colisión
+- Degradación
+
+# Conoce a los atacantes
+## Tipos de Agentes de Amenazas
+### Amenazas avanzadas persistentes
+Una amenaza persistente avanzada (APT) es un conjunto de procesos informáticos sigilosos orquestados por un tercero con la intención y la capacidad de atacar de forma avanzada y continuada en el tiempo. Sus intenciones suelen ser:
+- Danar la infrastructure critica, red eléctrica, recursos naturales
+- Acceder a propiedad intelectual, como secretos comerciales o patentes
+### Amenazas Internas
+Acceso previamente autorizado que después busca
+- Sabotaje
+- Corrupción
+- Espionaje
+- Acceso no autorizado o filtración de datos
+### Hacktivistas:
+Los hacktivistas son agentes de amenaza que actúan por motivaciones políticas, abusan de la tecnología digital para alcanzar sus metas, las cuales pueden incluir:
+- Manifestaciones
+- Propaganda
+- Campanas de cambio social
+- Fama
+## Tipos de Hackers
+Un hacker es cualquier persona o grupo que utiliza computadoras para acceder a datos sin autorización. Existen tres tipos, estas son sus categorías:
+### Autorizados
+También llamados hacker éticos. Respetan un código de ética. Realizan evaluaciones del riesgo de una organización. Su motivación es proteger de agentes maliciosos.
+### Semiautorizados
+Se consideran investigadores/as. Buscan vulnerabilidades, pero no aprovechan las que identifican.
+### No Autorizados
+hackers no éticos. Son agentes de amenaza maliciosos/as que no cumplen ni respetan la ley. Su objetivo es recopilar y vender información confidencial para obtener un beneficio financiero.
+
+Curso Interesante de Google sobre Hacking: https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H
