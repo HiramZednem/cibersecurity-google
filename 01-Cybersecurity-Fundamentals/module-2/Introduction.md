@@ -71,12 +71,20 @@ CISSP define the 8 security domines
 1. Security and Risk Management
 	- Defines security goals and objetives, risk mitigation, compliance, business continuity, and the law
 	- The security analist may need to update the politics about private info
-1. Asset Security
+2. Asset Security
 	- Secures digital and physical assets. It also related to the storage, maintenance, retention, and destruction of data.
 	- Security analist maybe destroy old info or devices that have that kind of things
-1. Security Architecture and Engineering
+3. Security Architecture and Engineering
 	-  Optimizes data security by ensuring effective tools, systems, and processes are in place
 	- Configurate a firewall, configurate a firewall it can help to defend to attacks
-1. Communications and Network Security
+4. Communications and Network Security
 		- Mange and ecure physical networks and wireless comunications
-		- Analize user behavior of the organization, if the members of the companie conect to point access that are insecure, the data could be exposed.
+		- Analize user behavior of the organization, if the members of the companie conect to point access that are insecure, the data could be exposed
+5. Identity and Access Management
+	- Keeps data secure, by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications.
+6. Security Assessment and Testing
+	- Conducting security control testing, collecting and analyzing data, and conducting security audits to monitor for risks, threats, and vulnerabilities
+7. Security Operation
+	- Conducting investigations and implemention preventing measures
+8. Software Development Security
+	- Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services
