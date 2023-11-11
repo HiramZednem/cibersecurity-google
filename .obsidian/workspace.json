@@ -11,9 +11,11 @@
             "id": "80f14fb27a046791",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231106195558.png"
+                "file": "01-Cybersecurity-Fundamentals/module-3/Week-3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231106195558.png",
+                "file": "01-Cybersecurity-Fundamentals/module-3/Week-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231106195558.png",
+                "file": "01-Cybersecurity-Fundamentals/module-3/Week-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231106195558.png"
+                "file": "01-Cybersecurity-Fundamentals/module-3/Week-3.md"
               }
             }
           }
@@ -146,12 +148,14 @@
   },
   "active": "80f14fb27a046791",
   "lastOpenFiles": [
-    "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231107053415.png",
+    "01-Cybersecurity-Fundamentals/module-1/Week-1.md",
+    "01-Cybersecurity-Fundamentals/module-2/Week-2.md",
+    "01-Cybersecurity-Fundamentals/module-3/Week-3.md",
     "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231106195558.png",
+    "01-Cybersecurity-Fundamentals/module-3",
+    "01-Cybersecurity-Fundamentals/module-1/attachments/Pasted image 20231107053415.png",
     "01-Cybersecurity-Fundamentals/module-1/01-introducction.md",
-    "01-Cybersecurity-Fundamentals/module-2/Week 2.md",
     "01-Cybersecurity-Fundamentals/module-2/Glosario.md",
-    "01-Cybersecurity-Fundamentals/module-1/Week 1.md",
     "01-Cybersecurity-Fundamentals/module-2/attachments/Pasted image 20231109234918.png",
     "01-Cybersecurity-Fundamentals/module-2/attachments",
     "01-Cybersecurity-Fundamentals",
