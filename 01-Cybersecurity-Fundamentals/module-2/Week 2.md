@@ -136,3 +136,4 @@ Se consideran investigadores/as. Buscan vulnerabilidades, pero no aprovechan las
 hackers no éticos. Son agentes de amenaza maliciosos/as que no cumplen ni respetan la ley. Su objetivo es recopilar y vender información confidencial para obtener un beneficio financiero.
 
 Curso Interesante de Google sobre Hacking: https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H
+
