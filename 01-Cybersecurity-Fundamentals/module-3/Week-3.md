@@ -32,4 +32,21 @@ Un ejemplo de esto puede ser al monitorear la red interna y reportar cualquier p
 Son medidas que reducen ciertos riesgos de seguridad
 
 # Diseño Seguro
-En la clase anterior, aprendimos sobre marcos y controles de seguridad, en esta clase se abordara los marcos y controles de seguridad especificos que son usados en las empresas.
+En la clase anterior, aprendimos sobre marcos y controles de seguridad, en esta clase se abordara los marcos y controles de seguridad específicos que son usados en las empresas.
+## Triada CID:
+La triada CID es una guía fundamental que informa como las organizaciones evalúan el riesgo y crean sistemas y políticas de seguridad.
+![[Pasted image 20231112164312.png]]
+CID es el acrónimo de: Confidencialidad, Integridad, Disponibilidad
+- **Confidencialidad:**
+	Deben implementarse controles estrictos para saber quien puede acceder a ciertos datos y quienes no.
+- **Integridad:**
+	Se debe hacer que los datos sean correctos, auténticos y confiables, para mantener la integridad se suele utilizar cifrado de datos. 
+- **Disponibilidad:**
+	Se refiere que la información este disponible para la gente que se necesite, por ejemplo la rectora puede tener acceso a toda la plantilla de directores y docentes, pero un director solo a la de docentes y un docente solo a la de alumnos...
+
+Al hablar de CID, un termino muy importante son los **activos**. Porque ellos tienen un valor que esta definido por lo que son, no es lo mismo un activo de cuentas bancarias a un activo del nombre de un usuario, por tanto ciertos activos conllevan mas riesgos que otros.
+## Marco de Ciberseguridad CSF del NIST.
+El CSF del NIST es un marco de adhesión voluntaria que consiste en estándares, pautas y prácticas recomendadas para manejar riesgos de ciberseguridad.
+Este marco es usado para gestionar los riesgos a corto y largo plazo.
+Por tanto es importante como analista de ciberseguridad conocerlos ya que ayudan a gestionar y minimizar los riesgos de nuestros activos por los agentes de amenaza. 
+Un agente de amenaza muy fuerte son empleados descontentos, y para minimizar esto el equipo de ciberseguridad debe hacer uso de el principio de disponibilidad y pautas organizacionales basadas en un marco de seguridad. 
