@@ -62,5 +62,29 @@ son pautas utilizadas para elaborar planes que ayuden a mitigar riesgos y amenaz
 4. Supervisión y comunicación de resultados
 **Cumplimiento normativo:**  _(compliance)_ 
 Es el proceso de adhesión a reglamentos internos y regulaciones externas.
-## Controles especificos, marcos y cumplimiento
+## Controles específicos, marcos y cumplimiento
 El Instituto Nacional de Estándares y Tecnología (NIST) es una agencia con sede en los Estados Unidos que desarrolla varios marcos de cumplimiento voluntario que las organizaciones de todo el mundo pueden utilizar para ayudar a gestionar el riesgo.
+**Ten en cuenta que** las especificaciones y pautas pueden variar según el tipo de organización para la que trabajes.
+### La Comisión Federal de Regulación de Energía - Corporación de Confiabilidad Eléctrica América del Norte (FERC-NERC)
+La FERC-NERC es una regulación que se aplica a las organizaciones que trabajan con electricidad o que están involucradas con la red eléctrica de los Estados Unidos y América del Norte.
+### Programa Federal de Gestión de Riesgos y Autorizaciones (FedRAMP®)
+El FedRAMP es un programa del gobierno federal de los Estados Unidos que estandariza la evaluación, autorización, monitoreo y gestión de seguridad de los servicios en la nube y las ofertas de productos.
+### Centro de Seguridad en Internet  (CIS®)
+El CIS es una organización sin fines de lucro que se enfoca en múltiples áreas. Proporciona un conjunto de controles que pueden utilizarse para proteger sistemas y redes contra ataques.
+### Reglamento General de Protección de Datos (RGPD)
+El RGPD es una normativa general de datos de la Unión Europea (UE) que protege el procesamiento de los datos de sus residentes y su derecho a la privacidad dentro y fuera del territorio. 
+### Estándares de seguridad de datos del sector de las tarjetas de pago (PCI DSS)
+PCI DSS es un estándar de seguridad internacional destinado a garantizar que las organizaciones que almacenan, aceptan, procesan y transmiten información de tarjetas de crédito lo hagan en un entorno seguro. 
+### Ley de Transferencia y Responsabilidad de los Seguros Médicos (HIPAA)
+La HIPAA es una ley federal de los Estados Unidos establecida en 1996 para proteger la información médica de las personas. Esta ley prohíbe que la información de un/una paciente sea compartida sin su consentimiento.
+### Organización Internacional para la Normalización (ISO) 
+La ISO fue creada para establecer estándares internacionales relacionados con la tecnología, la fabricación y la gestión en todo el mundo.
+### Controles de Sistemas y Organizaciones (SOC tipo 1, SOC tipo 2)
+Los informes SOC1 y SOC2 se enfocan en las políticas de acceso de los/as usuarios/as de una organización en diferentes niveles, tales como: 
+- Asociado/a
+- Supervisor/a
+- Gerente/a
+- Ejecutivo/a
+- Proveedor/a
+- Otros
+**Consejo profesional**: Existen numerosas regulaciones que se revisan con frecuencia. Te recomendamos mantenerte al día con los cambios y explorar más marcos, controles y normas de cumplimiento. Dos sugerencias para investigar: la Ley Gramm-Leach-Bliley y la Ley Sarbanes-Oxley.
