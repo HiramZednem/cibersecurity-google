@@ -50,3 +50,17 @@ El CSF del NIST es un marco de adhesión voluntaria que consiste en estándares,
 Este marco es usado para gestionar los riesgos a corto y largo plazo.
 Por tanto es importante como analista de ciberseguridad conocerlos ya que ayudan a gestionar y minimizar los riesgos de nuestros activos por los agentes de amenaza. 
 Un agente de amenaza muy fuerte son empleados descontentos, y para minimizar esto el equipo de ciberseguridad debe hacer uso de el principio de disponibilidad y pautas organizacionales basadas en un marco de seguridad. 
+
+# Controles, marcos y cumplimiento
+**Controles de seguridad**:
+Son medidas diseñadas para reducir riesgos específicos de seguridad. Por lo tanto, se utilizan junto con marcos para asegurar que los objetivos y procesos de seguridad se implementen correctamente y que las organizaciones cumplan con los requisitos regulatorios.
+**Marcos de seguridad:**
+son pautas utilizadas para elaborar planes que ayuden a mitigar riesgos y amenazas a los datos y la privacidad. Tienen cuatro componentes principales:
+1. Identificación y documentación de objetivos de seguridad 
+2. Establecimiento de pautas para lograr los objetivos de seguridad 
+3. Implementación de procesos de seguridad sólidos
+4. Supervisión y comunicación de resultados
+**Cumplimiento normativo:**  _(compliance)_ 
+Es el proceso de adhesión a reglamentos internos y regulaciones externas.
+## Controles especificos, marcos y cumplimiento
+El Instituto Nacional de Estándares y Tecnología (NIST) es una agencia con sede en los Estados Unidos que desarrolla varios marcos de cumplimiento voluntario que las organizaciones de todo el mundo pueden utilizar para ayudar a gestionar el riesgo.
