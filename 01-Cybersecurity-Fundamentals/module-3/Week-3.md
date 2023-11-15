@@ -88,3 +88,9 @@ Los informes SOC1 y SOC2 se enfocan en las políticas de acceso de los/as usuari
 - Proveedor/a
 - Otros
 **Consejo profesional**: Existen numerosas regulaciones que se revisan con frecuencia. Te recomendamos mantenerte al día con los cambios y explorar más marcos, controles y normas de cumplimiento. Dos sugerencias para investigar: la Ley Gramm-Leach-Bliley y la Ley Sarbanes-Oxley.
+# Ética en ciberseguridad
+Imagina que trabajas de analista de seguridad y recibes una alerta de riesgo alto, la investigas y vez que se trasfirieron datos sin autorización, descubres que quien lo hizo es un amigo del trabajo. Debes ser profesional, imparcial y proteger la seguridad de los datos. Siempre hay que seguir las leyes y códigos de ética de las organizaciones para actuar de manera correcta. ya que la ética de la seguridad da pautas para tomar decisiones apropiadas como profesional.
+Los principios éticos en seguridad son: Confidencialidad, protección de privacidad y leyes.
+**Confidencialidad:** siempre debes mantener los datos confidenciales y no compartirlos
+**Proteccion de privacidad:** Preservar los datos personales conta un uso no autorizado
+**Leyes:** son reglas que reconoce una comunidad y que aplica una entidad gobernante
